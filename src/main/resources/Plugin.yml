@@ -1,0 +1,4 @@
+name: NetworkkManager
+main: org.spigotmc.testplugin.Test
+version: 1.0
+author: TeamMystic
